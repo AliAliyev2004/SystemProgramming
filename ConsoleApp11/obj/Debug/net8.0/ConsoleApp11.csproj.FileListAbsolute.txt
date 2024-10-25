@@ -1,0 +1,14 @@
+C:\Users\eliel\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net8.0\ConsoleApp11.exe
+C:\Users\eliel\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net8.0\ConsoleApp11.deps.json
+C:\Users\eliel\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net8.0\ConsoleApp11.runtimeconfig.json
+C:\Users\eliel\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net8.0\ConsoleApp11.dll
+C:\Users\eliel\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net8.0\ConsoleApp11.pdb
+C:\Users\eliel\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliel\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.AssemblyInfoInputs.cache
+C:\Users\eliel\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.AssemblyInfo.cs
+C:\Users\eliel\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\eliel\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.dll
+C:\Users\eliel\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\refint\ConsoleApp11.dll
+C:\Users\eliel\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.pdb
+C:\Users\eliel\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ConsoleApp11.genruntimeconfig.cache
+C:\Users\eliel\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net8.0\ref\ConsoleApp11.dll
